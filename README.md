@@ -28,3 +28,6 @@
 
 - `NodeFlowIntegrationTest.connectAndFetchCid_fromPublicNode`
 - `NodeFlowIntegrationTest.pingFailsForInvalidAddress`
+
+## Данные полученные по CID
+![img.png](img.png)
